@@ -21,7 +21,7 @@ While I understand the need for occasional incidents, I prefer roles without fre
 
 Hobbies include retrocomputing, operating system internals, and designing long-term maintainable systems.
 
-I don’t use Mac OS X — please don’t ask me to troubleshoot it or expect me to use it for work.
+*I don’t use Mac OS X — please don’t ask me to troubleshoot it or expect me to use it for work.*
 
 Open to full-time positions (no freelance or short-term contracts) with asynchronous communication and a long-term outlook.
 

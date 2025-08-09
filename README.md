@@ -9,13 +9,13 @@ Not so much here, but something's in progress.
 
 ## And if you'd like to hire me:
 
-I am a systems engineer with a strong interest in stable, long-term infrastructure – especially non-mainstream operating systems such as illumos, Solaris, \*BSD, and other deep UNIX technologies.
+I am a systems engineer with a strong interest in stable, long-term infrastructure – especially BSD systems, Linux in classic systems administration contexts (not just cloud orchestration), illumos, Solaris, and other deep UNIX technologies.
+
+Ideal roles include backend operations, infrastructure support, SRE on legacy or non-cloud-native systems, reproducible builds, or digital preservation work.
 
 I only consider remote positions in non-fast-paced environments where quality and deep understanding are valued over speed. I do not consider relocation for work (anyway, it doesn't make sense for remote work to relocate).
 
 **I work in English only and do not speak German** (and don’t plan to, please don’t ask). I am based in Berlin for now and cannot start earlier than 10am CET.
-
-Ideal roles include: backend operations, infrastructure support, SRE on legacy or non-cloud-native systems, reproducible builds, or digital preservation work.
 
 While I understand the need for occasional incidents, I prefer roles without frequent or unpredictable on-call rotations. Systems that regularly wake engineers at night often indicate deeper architectural or process issues, and I prefer helping to prevent those rather than firefighting them.
 

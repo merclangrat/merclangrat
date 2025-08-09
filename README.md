@@ -25,4 +25,6 @@ Hobbies include retrocomputing, operating system internals, and designing long-t
 
 Open to full-time positions (no freelance or short-term contracts) with asynchronous communication and a long-term outlook.
 
+I support Ukraine and do not work with companies connected to Russia.
+
 Then, please contact me by [email](mailto:mercurius@elming.org).

@@ -9,7 +9,8 @@ Not so much here, but something's in progress.
 
 ## And if you'd like to hire me:
 
-**Important: I am not an EU citizen but I have permanent residence (with full work permission) in Germany.  
+**Important:  
+I am not an EU citizen but I have permanent residence (with full work permission) in Germany.  
 I work in English only and do not speak German (and don’t plan to, please don’t ask).**
 
 I am a systems engineer with a strong interest in stable, long-term infrastructure – especially BSD systems, Linux in classic systems administration contexts (not just cloud orchestration), illumos, Solaris, and other deep UNIX technologies.
